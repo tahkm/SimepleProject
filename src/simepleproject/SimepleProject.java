@@ -10,7 +10,9 @@ package simepleproject;
  * @author tah
  */
 public class SimepleProject {
-
+    
+    int a=10;
+    int b=20;
     /**
      * @param args the command line arguments
      */
