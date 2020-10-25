@@ -11,4 +11,16 @@ package simepleproject;
  */
 public class Car {
     
+    int MaxSpeed = 200;
+    
+    Car()
+    {
+    
+    }
+    
+    public void moveForward()
+    {
+        
+    }
+    
 }
